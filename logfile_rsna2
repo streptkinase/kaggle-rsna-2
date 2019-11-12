@@ -1,0 +1,673 @@
+streptkinase@instance-1:/home/jupyter$ tmux pipe-pane 'cat >> logfile_rsna2'ls[Kpython3 ongoing.py ; sudo poweroff
+Loaded pretrained weights for efficientnet-b5
+/mnt/disks/mount_point/train_splitted/train0.csv
+Epoch 0/0
+----------
+Loss: 0.28477050750459904
+Loss: 0.2898631242850983
+
+Training complete in 60m 32s
+streptkinase@instance-1:/home/jupyter$ tmux pipe-pane 'cat >> logfile_rsna2'[11Pls /mnt/disks/mount_point/[12@sudo chmod a+w[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmount -o discard,defaults /dev/sdb /mnt/disks/mount_point[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvi logfile_rsna2[Kls[Kcd ../jupyter/python3 ongoing.py ; sudo poweroff
+Loaded pretrained weights for efficientnet-b5
+/mnt/disks/mount_point/train_splitted/train1.csv
+/mnt/disks/mount_point/train0.pth
+Epoch 0/0
+----------
+Loss: 0.23549537279157085
+Loss: 0.4840758283785081
+
+Training complete in 60m 9s
+/mnt/disks/mount_point/train_splitted/train2.csv
+/mnt/disks/mount_point/train1.pth
+Epoch 0/0
+----------
+Loss: 0.21032350125374505
+Loss: 0.18507117715586746
+
+Training complete in 60m 23s
+/mnt/disks/mount_point/train_splitted/train3.csv
+/mnt/disks/mount_point/train2.pth
+Epoch 0/0
+----------
+Loss: 0.18654038487225771
+Loss: 0.18676291542518678
+
+Training complete in 60m 20s
+/mnt/disks/mount_point/train_splitted/train4.csv
+/mnt/disks/mount_point/train3.pth
+Epoch 0/0
+----------
+Loss: 0.18099664695379325
+Loss: 0.357146113492588
+
+Training complete in 60m 20s
+/mnt/disks/mount_point/train_splitted/train5.csv
+/mnt/disks/mount_point/train4.pth
+Epoch 0/0
+----------
+Loss: 0.17151629369747826
+Loss: 0.184629196763518
+
+Training complete in 60m 22s
+/mnt/disks/mount_point/train_splitted/train6.csv
+/mnt/disks/mount_point/train5.pth
+Epoch 0/0
+----------
+Loss: 0.1659136223805137
+Loss: 0.19875604951669978
+
+Training complete in 60m 19s
+/mnt/disks/mount_point/train_splitted/train7.csv
+/mnt/disks/mount_point/train6.pth
+Epoch 0/0
+----------
+Loss: 0.17071067840373144
+Loss: 0.1729400450196016
+
+Training complete in 60m 20s
+/mnt/disks/mount_point/train_splitted/train8.csv
+/mnt/disks/mount_point/train7.pth
+Epoch 0/0
+----------
+Loss: 0.1746679154892452
+Loss: 0.349525524694156
+
+Training complete in 60m 20s
+/mnt/disks/mount_point/train_splitted/train9.csv
+/mnt/disks/mount_point/train8.pth
+Epoch 0/0
+----------
+Loss: 0.17328013366595843
+Loss: 0.16838826434933885
+
+Training complete in 60m 20s
+/mnt/disks/mount_point/train_splitted/train10.csv
+/mnt/disks/mount_point/train9.pth
+Epoch 0/0
+----------
+Loss: 0.1697940541053191
+Loss: 0.16065319237558856
+
+Training complete in 60m 19s
+streptkinase@instance-1:/home/jupyter$ tmux pipe-pane 'cat >> logfile_rsna2'[21Pvi logfile_rsna2ls[Kcd ../jupyter/ls /mnt/disks/mount_point/[12@sudo chmod a+w[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmount -o discard,defaults /dev/sdb /mnt/disks/mount_point[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[28Ppython3 ongoing.py ; sudo powerofftmux pipe-pane 'cat >> logfile_rsna2'[3Ppython3 ongoing.py ; sudo poweroff
+Loaded pretrained weights for efficientnet-b5
+/mnt/disks/mount_point/train_splitted/train11.csv
+/mnt/disks/mount_point/train10.pth
+Epoch 0/0
+----------
+Loss: 0.1708686398570426
+Loss: 25792.262481912454
+
+Training complete in 60m 22s
+/mnt/disks/mount_point/train_splitted/train12.csv
+/mnt/disks/mount_point/train11.pth
+Epoch 0/0
+----------
+Loss: 0.1681628580889199
+Loss: 0.19428093716194564
+
+Training complete in 60m 35s
+/mnt/disks/mount_point/train_splitted/train13.csv
+/mnt/disks/mount_point/train12.pth
+Epoch 0/0
+----------
+Loss: 0.16935031154826283
+Loss: 0.16376515677328757
+
+Training complete in 60m 33s
+/mnt/disks/mount_point/train_splitted/train14.csv
+/mnt/disks/mount_point/train13.pth
+Epoch 0/0
+----------
+Loss: 0.1689840194885619
+Loss: 0.15908840195711435
+
+Training complete in 60m 34s
+/mnt/disks/mount_point/train_splitted/train15.csv
+/mnt/disks/mount_point/train14.pth
+Epoch 0/0
+----------
+Loss: 0.16833246031752788
+Loss: 211037417.4741079
+
+Training complete in 60m 34s
+/mnt/disks/mount_point/train_splitted/train16.csv
+/mnt/disks/mount_point/train15.pth
+Epoch 0/0
+----------
+Loss: 0.1660844102177769
+Loss: 0.1873180906362941
+
+Training complete in 60m 34s
+/mnt/disks/mount_point/train_splitted/train17.csv
+/mnt/disks/mount_point/train16.pth
+Epoch 0/0
+----------
+Loss: 0.17153933146018535
+Loss: 0.1694895261001117
+
+Training complete in 60m 35s
+/mnt/disks/mount_point/train_splitted/train18.csv
+/mnt/disks/mount_point/train17.pth
+Epoch 0/0
+----------
+Loss: 0.1674586398740299
+Loss: 0.15616253659480836
+
+Training complete in 60m 31s
+/mnt/disks/mount_point/train_splitted/train19.csv
+/mnt/disks/mount_point/train18.pth
+Epoch 0/0
+----------
+Loss: 0.16720948222335427
+Loss: 0.17122051077544823
+
+Training complete in 60m 28s
+/mnt/disks/mount_point/train_splitted/train20.csv
+/mnt/disks/mount_point/train19.pth
+Epoch 0/0
+----------
+Loss: 0.16698199811289086
+Loss: 0.15898102297392594
+
+Training complete in 60m 30s
+streptkinase@instance-1:/home/jupyter$ tmux pipe-pane 'cat >> logfile_rsna2'[3Ppython3 ongoing.py ; sudo poweroff
+Loaded pretrained weights for efficientnet-b5
+/mnt/disks/mount_point/train_splitted/train21.csv
+/mnt/disks/mount_point/train20.pth
+Epoch 0/0
+----------
+Loss: 0.16524927445261273
+Loss: 126.81597921191293
+
+Training complete in 60m 15s
+/mnt/disks/mount_point/train_splitted/train22.csv
+/mnt/disks/mount_point/train21.pth
+Epoch 0/0
+----------
+Loss: 0.16087600955995732
+Loss: 0.1844487394084517
+
+Training complete in 60m 23s
+/mnt/disks/mount_point/train_splitted/train23.csv
+/mnt/disks/mount_point/train22.pth
+Epoch 0/0
+----------
+Loss: 0.16657010659612714
+Loss: 0.16320326412142375
+
+Training complete in 60m 22s
+/mnt/disks/mount_point/train_splitted/train24.csv
+/mnt/disks/mount_point/train23.pth
+Epoch 0/0
+----------
+Loss: 0.1672072875282727
+Loss: 22560.22267029254
+
+Training complete in 60m 24s
+/mnt/disks/mount_point/train_splitted/train25.csv
+/mnt/disks/mount_point/train24.pth
+Epoch 0/0
+----------
+Loss: 0.16250035648117772
+Loss: 0.154611513263245
+
+Training complete in 60m 24s
+/mnt/disks/mount_point/train_splitted/train26.csv
+/mnt/disks/mount_point/train25.pth
+Epoch 0/0
+----------
+Loss: 0.159010656991783
+Loss: 0.1720992338831853
+
+Training complete in 59m 43s
+streptkinase@instance-1:/home/jupyter$ tmux pipe-pane 'cat >> logfile_rsna2'[3Ppython3 ongoing.py ; sudo poweroff
+Loaded pretrained weights for efficientnet-b5
+/mnt/disks/mount_point/train_splitted/train0.csv
+/mnt/disks/mount_point/train26.pth
+Epoch 0/0
+----------
+Loss: 0.16238329328154213
+Loss: 0.16010629001012772
+
+Training complete in 60m 41s
+streptkinase@instance-1:/home/jupyter$ tmux pipe-pane 'cat >> logfile_rsna2'[3Ppython3 ongoing.py ; sudo poweroff
+Loaded pretrained weights for efficientnet-b5
+/mnt/disks/mount_point/train_splitted/train1.csv
+/mnt/disks/mount_point/train0.pth
+Epoch 0/0
+----------
+Loss: 0.16079398216060362
+Loss: 0.15508927809153128
+
+Training complete in 60m 17s
+/mnt/disks/mount_point/train_splitted/train2.csv
+/mnt/disks/mount_point/train1.pth
+Epoch 0/0
+----------
+Loss: 0.16076731182010845
+Loss: 0.148593103296367
+
+Training complete in 60m 26s
+/mnt/disks/mount_point/train_splitted/train3.csv
+/mnt/disks/mount_point/train2.pth
+Epoch 0/0
+----------
+Loss: 0.15299450524472633
+Loss: 0.1442970372505854
+
+Training complete in 60m 24s
+/mnt/disks/mount_point/train_splitted/train4.csv
+/mnt/disks/mount_point/train3.pth
+Epoch 0/0
+----------
+Loss: 0.15215164757387248
+Loss: 8630.153513449168
+
+Training complete in 60m 24s
+/mnt/disks/mount_point/train_splitted/train5.csv
+/mnt/disks/mount_point/train4.pth
+Epoch 0/0
+----------
+Loss: 0.14213527081396896
+Loss: 104.19348703537933
+
+Training complete in 60m 26s
+/mnt/disks/mount_point/train_splitted/train6.csv
+/mnt/disks/mount_point/train5.pth
+Epoch 0/0
+----------
+Loss: 0.1401824723113794
+Loss: 0.17171406244503995
+
+Training complete in 60m 27s
+/mnt/disks/mount_point/train_splitted/train7.csv
+/mnt/disks/mount_point/train6.pth
+Epoch 0/0
+----------
+Loss: 0.1422780004605651
+Loss: 7690735.034930384
+
+Training complete in 60m 25s
+/mnt/disks/mount_point/train_splitted/train8.csv
+/mnt/disks/mount_point/train7.pth
+Epoch 0/0
+----------
+Loss: 0.143656052315759
+Loss: 6560835.420064295
+
+Training complete in 60m 26s
+/mnt/disks/mount_point/train_splitted/train9.csv
+/mnt/disks/mount_point/train8.pth
+Epoch 0/0
+----------
+Loss: 0.14323864972729936
+Loss: 82209808.44207986
+
+Training complete in 60m 25s
+/mnt/disks/mount_point/train_splitted/train10.csv
+/mnt/disks/mount_point/train9.pth
+Epoch 0/0
+----------
+Loss: 0.13931045845482148
+Loss: 0.15950153488296334
+
+Training complete in 60m 27s
+/mnt/disks/mount_point/train_splitted/train11.csv
+/mnt/disks/mount_point/train10.pth
+Epoch 0/0
+----------
+Loss: 0.13622663738057017
+Loss: 0.13469542959207817
+
+Training complete in 60m 26s
+/mnt/disks/mount_point/train_splitted/train12.csv
+/mnt/disks/mount_point/train11.pth
+Epoch 0/0
+----------
+Loss: 0.1356048981118831
+Loss: 9876433.576401709
+
+Training complete in 60m 27s
+/mnt/disks/mount_point/train_splitted/train13.csv
+/mnt/disks/mount_point/train12.pth
+Epoch 0/0
+----------
+Loss: 0.13814309849938144
+Loss: 248112922.1428003
+
+Training complete in 60m 25s
+/mnt/disks/mount_point/train_splitted/train14.csv
+/mnt/disks/mount_point/train13.pth
+Epoch 0/0
+----------
+Loss: 0.13463168375352397
+Loss: 202612533806.65994
+
+Training complete in 60m 29s
+/mnt/disks/mount_point/train_splitted/train15.csv
+/mnt/disks/mount_point/train14.pth
+Epoch 0/0
+----------
+Loss: 0.13767492612958887
+Loss: 1921998941.8932216
+
+Training complete in 60m 26s
+/mnt/disks/mount_point/train_splitted/train16.csv
+/mnt/disks/mount_point/train15.pth
+Epoch 0/0
+----------
+Loss: 0.13283550196680008
+Loss: 3060437015736.2188
+
+Training complete in 60m 27s
+/mnt/disks/mount_point/train_splitted/train17.csv
+/mnt/disks/mount_point/train16.pth
+Epoch 0/0
+----------
+Loss: 0.13734162733542035
+Loss: 1.2224947937543336e+25
+
+Training complete in 60m 28s
+/mnt/disks/mount_point/train_splitted/train18.csv
+/mnt/disks/mount_point/train17.pth
+Epoch 0/0
+----------
+Loss: 0.13386926711192354
+Loss: 36235230086.27656
+
+Training complete in 60m 28s
+/mnt/disks/mount_point/train_splitted/train19.csv
+/mnt/disks/mount_point/train18.pth
+Epoch 0/0
+----------
+Loss: 0.13189116187621838
+Loss: 1161520862660363.0
+
+Training complete in 60m 26s
+/mnt/disks/mount_point/train_splitted/train20.csv
+/mnt/disks/mount_point/train19.pth
+Epoch 0/0
+----------
+Loss: 0.1336398621628294
+Loss: 396862503552.1893
+
+Training complete in 60m 28s
+/mnt/disks/mount_point/train_splitted/train21.csv
+/mnt/disks/mount_point/train20.pth
+Epoch 0/0
+----------
+Loss: 0.13291895029433654
+Loss: 0.1249955678434781
+
+Training complete in 60m 21s
+/mnt/disks/mount_point/train_splitted/train22.csv
+/mnt/disks/mount_point/train21.pth
+Epoch 0/0
+----------
+Loss: 0.12882151221339008
+Loss: 0.13078508581057852
+
+Training complete in 60m 26s
+/mnt/disks/mount_point/train_splitted/train23.csv
+/mnt/disks/mount_point/train22.pth
+Epoch 0/0
+----------
+Loss: 0.13331641487396556
+Loss: 1.8892640152439604
+
+Training complete in 60m 28s
+/mnt/disks/mount_point/train_splitted/train24.csv
+/mnt/disks/mount_point/train23.pth
+Epoch 0/0
+----------
+Loss: 0.13376907210957725
+Loss: 0.14290593167040663
+
+Training complete in 60m 22s
+/mnt/disks/mount_point/train_splitted/train25.csv
+/mnt/disks/mount_point/train24.pth
+Epoch 0/0
+----------
+Loss: 0.13036032446739265
+Loss: 0.12140926730406909
+
+Training complete in 60m 20s
+/mnt/disks/mount_point/train_splitted/train26.csv
+/mnt/disks/mount_point/train25.pth
+Epoch 0/0
+----------
+Loss: 0.1274250200754154
+Loss: 0.15437768272119498
+
+Training complete in 59m 46s
+streptkinase@instance-1:/home/jupyter$ tmux pipe-pane 'cat >> logfile_rsna2'ls /mnt/disks/mount_point/copied_from_bootd/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14@cp ongoing.ipynb[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Ppy[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[29Pls /mnt/disks/mount_point/mkdir /mnt/disks/mount_point/copied_from_bootd[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K /mnt/disks/mount_point/rm /mnt/disks/mount_point/train1?.pth[11Pls /mnt/disks/mount_point/rm /mnt/disks/mount_point/train?.pthls /mnt/disks/mount_point/checkpointssudo cp /mnt/disks/mount_point/train25.pth /mnt/disks/mount_point/checkpoiints/M[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[47Pls /mnt/disks/mount_point/
+[KM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmkdir /mnt/disks/mount_point/checkpointsrm /mnt/disks/mount_point/backups/train25.pth[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pls /mnt/disks/mount_point/backupssudo cp /mnt/disks/mount_point/train25.pth /mnt/disks/mount_point/backups//M[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pcp /mnt/disks/mount_point/train25.pth /mnt/disks/mount_point/backups/
+[KM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[43Pls /mnt/disks/mount_point/[12@sudo chmod a+w[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmount -o discard,defaults /dev/sdb /mnt/disks/mount_point[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvi logfile_rsna2[Kls[Kcd ../jupyter/python3 ongoing.py ; sudo powerofftmux pipe-pane 'cat >> logfile_rsna2'[3Ppython3 ongoing.py ; sudo poweroff
+Loaded pretrained weights for efficientnet-b5
+/mnt/disks/mount_point/train_splitted/train1.csv
+Traceback (most recent call last):
+  File "ongoing.py", line 250, in <module>
+    training_model(i)
+  File "ongoing.py", line 172, in training_model
+    model.load_state_dict(torch.load(f'/mnt/disks/mount_point/train{i-1}.pth'))
+  File "/opt/anaconda3/lib/python3.7/site-packages/torch/serialization.py", line 381, in load
+    f = open(f, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/disks/mount_point/train0.pth'
+streptkinase@instance-1:/home/jupyter$ tmux pipe-pane 'cat >> logfile_rsna2'[3Ppython3 ongoing.py ; sudo poweroff
+Loaded pretrained weights for efficientnet-b5
+/mnt/disks/mount_point/train_splitted/train0.csv
+Epoch 0/0
+----------
+Loss: 0.1308678837114363
+Loss: 1488900.6146275687
+
+Training complete in 60m 38s
+/mnt/disks/mount_point/train_splitted/train1.csv
+/mnt/disks/mount_point/train0.pth
+Epoch 0/0
+----------
+Loss: 0.13013290702994565
+Loss: 998861921.6401271
+
+Training complete in 60m 52s
+/mnt/disks/mount_point/train_splitted/train2.csv
+/mnt/disks/mount_point/train1.pth
+Epoch 0/0
+----------
+Loss: 0.13057805220084265
+Loss: 0.1529632493537136
+
+Training complete in 60m 45s
+/mnt/disks/mount_point/train_splitted/train3.csv
+/mnt/disks/mount_point/train2.pth
+Epoch 0/0
+----------
+Loss: 0.4032371371525456
+Loss: 2.2961065752851304e+27
+
+Training complete in 60m 46s
+/mnt/disks/mount_point/train_splitted/train4.csv
+/mnt/disks/mount_point/train3.pth
+Epoch 0/0
+----------
+Loss: 0.13283336865422316
+Loss: 64323985385.87581
+
+Training complete in 60m 53s
+/mnt/disks/mount_point/train_splitted/train5.csv
+/mnt/disks/mount_point/train4.pth
+Epoch 0/0
+----------
+Loss: 0.12545515391422668
+Loss: 3.8089684257255414e+26
+
+Training complete in 60m 57s
+/mnt/disks/mount_point/train_splitted/train6.csv
+/mnt/disks/mount_point/train5.pth
+Epoch 0/0
+----------
+Loss: 0.12284198997753557
+Loss: 373669.26924278465
+
+Training complete in 60m 51s
+/mnt/disks/mount_point/train_splitted/train7.csv
+/mnt/disks/mount_point/train6.pth
+Epoch 0/0
+----------
+Loss: 0.12848673030093197
+Loss: 3.911503361816076e+19
+
+Training complete in 60m 43s
+/mnt/disks/mount_point/train_splitted/train8.csv
+/mnt/disks/mount_point/train7.pth
+Epoch 0/0
+----------
+Loss: 0.1301791408885969
+Loss: 2068.310390439653
+
+Training complete in 60m 41s
+/mnt/disks/mount_point/train_splitted/train9.csv
+/mnt/disks/mount_point/train8.pth
+Epoch 0/0
+----------
+Loss: 0.1322776988216501
+Loss: 33.57862460192243
+
+Training complete in 60m 41s
+/mnt/disks/mount_point/train_splitted/train10.csv
+/mnt/disks/mount_point/train9.pth
+Epoch 0/0
+----------
+Loss: 0.13366426888447022
+Loss: 31698969220.43339
+
+Training complete in 60m 40s
+/mnt/disks/mount_point/train_splitted/train11.csv
+/mnt/disks/mount_point/train10.pth
+Epoch 0/0
+----------
+Loss: 0.1286275432455004
+Loss: 33877657731.640285
+
+Training complete in 60m 41s
+/mnt/disks/mount_point/train_splitted/train12.csv
+/mnt/disks/mount_point/train11.pth
+Epoch 0/0
+----------
+Loss: 0.12962307866761694
+Loss: 0.131856145487584
+
+Training complete in 60m 40s
+/mnt/disks/mount_point/train_splitted/train13.csv
+/mnt/disks/mount_point/train12.pth
+Epoch 0/0
+----------
+Loss: 0.1307158571518492
+Loss: 1699574325541616.8
+
+Training complete in 60m 42s
+/mnt/disks/mount_point/train_splitted/train14.csv
+/mnt/disks/mount_point/train13.pth
+Epoch 0/0
+----------
+Loss: 0.12976292120488941
+Loss: 15845485382663.521
+
+Training complete in 60m 43s
+/mnt/disks/mount_point/train_splitted/train15.csv
+/mnt/disks/mount_point/train14.pth
+Epoch 0/0
+----------
+Loss: 0.12932303695862066
+Loss: 4.153157496064768
+
+Training complete in 60m 41s
+/mnt/disks/mount_point/train_splitted/train16.csv
+/mnt/disks/mount_point/train15.pth
+Epoch 0/0
+----------
+Loss: 0.14436146107412642
+Loss: nan
+
+Training complete in 60m 36s
+/mnt/disks/mount_point/train_splitted/train17.csv
+/mnt/disks/mount_point/train16.pth
+Epoch 0/0
+----------
+Loss: 0.13511669964034226
+Loss: nan
+
+Training complete in 60m 27s
+/mnt/disks/mount_point/train_splitted/train18.csv
+/mnt/disks/mount_point/train17.pth
+Epoch 0/0
+----------
+Loss: 0.12774347163822095
+Loss: 2.385216813425458e+22
+
+Training complete in 60m 33s
+/mnt/disks/mount_point/train_splitted/train19.csv
+/mnt/disks/mount_point/train18.pth
+Epoch 0/0
+----------
+Loss: 0.13789307608496748
+Loss: nan
+
+Training complete in 60m 37s
+/mnt/disks/mount_point/train_splitted/train20.csv
+/mnt/disks/mount_point/train19.pth
+Epoch 0/0
+----------
+Loss: 0.12828157905454282
+Loss: nan
+
+Training complete in 60m 39s
+/mnt/disks/mount_point/train_splitted/train21.csv
+/mnt/disks/mount_point/train20.pth
+Epoch 0/0
+----------
+Loss: 0.12772096306217717
+Loss: nan
+
+Training complete in 60m 39s
+/mnt/disks/mount_point/train_splitted/train22.csv
+/mnt/disks/mount_point/train21.pth
+Epoch 0/0
+----------
+Loss: 0.1264380159589753
+Loss: 27618.206189883724
+
+Training complete in 60m 58s
+/mnt/disks/mount_point/train_splitted/train23.csv
+/mnt/disks/mount_point/train22.pth
+Epoch 0/0
+----------
+Loss: 0.1316499159733241
+Loss: nan
+
+Training complete in 60m 52s
+/mnt/disks/mount_point/train_splitted/train24.csv
+/mnt/disks/mount_point/train23.pth
+Epoch 0/0
+----------
+Loss: 0.1309275169966859
+Loss: nan
+
+Training complete in 60m 49s
+/mnt/disks/mount_point/train_splitted/train25.csv
+/mnt/disks/mount_point/train24.pth
+Epoch 0/0
+----------
+Loss: 0.12859563912403538
+Loss: 505144900.62339485
+
+Training complete in 60m 51s
+/mnt/disks/mount_point/train_splitted/train26.csv
+/mnt/disks/mount_point/train25.pth
+Epoch 0/0
+----------
+Loss: 0.12550553894099986
+Loss: nan
+
+Training complete in 60m 16s

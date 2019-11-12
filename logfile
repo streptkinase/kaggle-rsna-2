@@ -1,0 +1,19 @@
+streptkinase@instance-1:/home/jupyter$ ls
+logfile               ongoing.ipynb  richout3.txt  stdout3.txt  Untitled.ipynb
+ongoing_copied.ipynb  ongoing.py     stderr3.txt   [0m[01;34mtutorials[0m    Untitled.py
+streptkinase@instance-1:/home/jupyter$ cat logfile
+streptkinase@instance-1:/home/jupyter$ ls
+logfile               ongoing.ipynb  richout3.txt  stdout3.txt  Untitled.ipynb
+ongoing_copied.ipynb  ongoing.py     stderr3.txt   [0m[01;34mtutorials[0m    Untitled.py
+streptkinase@instance-1:/home/jupyter$ cat logfile
+streptkinase@instance-1:/home/jupyter$ cat logfile
+streptkinase@instance-1:/home/jupyter$ ls
+logfile               ongoing.ipynb  richout3.txt  stdout3.txt  Untitled.ipynb
+ongoing_copied.ipynb  ongoing.py     stderr3.txt   [0m[01;34mtutorials[0m    Untitled.py
+streptkinase@instance-1:/home/jupyter$ cat logfile
+streptkinase@instance-1:/home/jupyter$ ls
+logfile               ongoing.ipynb  richout3.txt  stdout3.txt  Untitled.ipynb
+ongoing_copied.ipynb  ongoing.py     stderr3.txt   [0m[01;34mtutorials[0m    Untitled.py
+streptkinase@instance-1:/home/jupyter$ cat logfile
+streptkinase@instance-1:/home/jupyter$ cat logfile
+streptkinase@instance-1:/home/jupyter$ cat logfilels[Ktmux pipe-pane 'cat >> ./logfile'[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
